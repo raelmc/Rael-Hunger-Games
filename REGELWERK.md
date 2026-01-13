@@ -4,7 +4,7 @@
 1. **Kein X-Ray** (Texturepacks, Shader oder Mods, die Erze/Spieler hervorheben, sind verboten)
 2. **Keine Exploits**
    - Exploits **müssen gemeldet werden**
-   - Meldung über Discord-Ticket oder `/report`
+   - Meldung über den Discord-Server
    - Exploit-Nutzung = Bann
 3. **Keine Hacks / Hacked Clients**
    - z. B. Meteor Client, Wurst Client, LiquidBounce, Baritone
